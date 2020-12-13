@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Hello! Everyone!😺
 
 📚Languages
+
 ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?style=plastic&logo=Java&logoColor=white)
 
 ![LeeA0's github stats](https://github-readme-stats.vercel.app/api?username=LeeA0&show_icons=true)
